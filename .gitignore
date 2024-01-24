@@ -1,0 +1,4 @@
+node_modules
+.expo/README.md
+.expo/devices.json
+.expo/.gitignore

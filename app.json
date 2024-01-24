@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "ezdrive-app",
+    "slug": "ezdrive-app",
+    "extra": {
+      "eas": {
+        "projectId": "ad6d3c60-0afa-490e-ac27-915e4ea56acd"
+      }
+    },
+    "android": {
+      "package": "com.joehanz.ezdriveapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.joehanz.ezdriveapp"
+    }
+  }
+}
